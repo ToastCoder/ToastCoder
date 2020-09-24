@@ -23,7 +23,7 @@
 ![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=1800)
 
 <a href="https://github.com/ToastCoder/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&title_color=00ff00&text_color=ffffff&bg_color=000000" />
 </a>
 
 
