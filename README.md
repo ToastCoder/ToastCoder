@@ -20,10 +20,10 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social)  
 
-![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&show_icons=true&title_color=00ff00&bg_color=000000&icon_color=ffffff&align=left&show_owner=true&include_all_commits=true&cache_seconds=1800)
+![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&show_icons=true&title_color=00ff00&bg_color=ffffff&icon_color=000000&align=left&show_owner=true&include_all_commits=true&cache_seconds=1800)
 
 <a href="https://github.com/ToastCoder/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&title_color=00ff00&text_color=ffffff&bg_color=000000" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&title_color=00ff00&text_color=000000&bg_color=ffffff" />
 </a>
 
 
