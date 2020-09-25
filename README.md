@@ -28,7 +28,6 @@
 
 
 
-
 [stackoverflow]:https://stackoverflow.com/users/13433089/vicky/
 [website]: https://toastcoder.github.io/
 [linkedin]: https://www.linkedin.com/in/vicky2k1/
