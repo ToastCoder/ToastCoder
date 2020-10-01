@@ -10,7 +10,7 @@
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
-
+[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xdadevelopers.svg" />][xda]
 
 <br />
 
@@ -33,3 +33,4 @@
 [linkedin]: https://www.linkedin.com/in/vicky2k1/
 [github]: https://github.com/ToastCoder/
 [mail]: mailto:vicky.pcbasic@gmail.com
+[xda]:https://forum.xda-developers.com/member.php?u=9858868
