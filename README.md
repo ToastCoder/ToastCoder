@@ -26,8 +26,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&title_color=#027800&text_color=000000&bg_color=ffffff" />
 </a>
 
-
-
 [stackoverflow]:https://stackoverflow.com/users/13433089/vicky/
 [website]: https://toastcoder.github.io/
 [linkedin]: https://www.linkedin.com/in/vicky2k1/
