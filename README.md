@@ -16,6 +16,10 @@
 
 <br />
 
+## Bugs/Suggestions to my repo's:
+
+Leave a message [here](https://t.me/ToastCoder)
+
 ## Github Statistics so far:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
