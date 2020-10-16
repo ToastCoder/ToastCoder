@@ -26,11 +26,9 @@ Leave a message [here](https://t.me/ToastCoder)
 
 ![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social)  
 
-![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&show_icons=true&title_color=#027800&bg_color=ffffff&icon_color=000000&align=left&show_owner=true&include_all_commits=true&cache_seconds=1800)
+![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact)](https://github.com/ToastCoder/)
 
-<a href="https://github.com/ToastCoder/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&title_color=#027800&text_color=000000&bg_color=ffffff" />
-</a>
 
 [stackoverflow]:https://stackoverflow.com/users/13433089/vicky/
 [website]: https://toastcoder.github.io/
