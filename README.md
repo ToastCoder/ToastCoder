@@ -29,7 +29,6 @@ Leave a message [here](https://t.me/ToastCoder)
 ![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact)](https://github.com/ToastCoder/)
 
-
 [stackoverflow]:https://stackoverflow.com/users/13433089/vicky/
 [website]: https://toastcoder.github.io/
 [hackerrank]:https://hackerrank.com/ToastCoder/
