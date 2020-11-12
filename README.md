@@ -3,6 +3,17 @@
 * An Electronics Undergrad
 * Interested in software development in general, but I'm now also inclined towards AI/ML and Cloud Computing.
 
+## Github Statistics so far:
+
+![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&count_private=true&show_icons=true)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
+![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ToastCoder) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact)](https://github.com/ToastCoder/)
+
+
+
 ## Find me on:
 
 [<img align="left"  width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,15 +30,6 @@
 ## Bugs/Suggestions to my repo's:
 
 Leave a message [here](https://t.me/ToastCoder)
-
-## Github Statistics so far:
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
-
-![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social)  
-
-![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact)](https://github.com/ToastCoder/)
 
 [stackoverflow]:https://stackoverflow.com/users/13433089/vicky/
 [website]: https://toastcoder.github.io/
