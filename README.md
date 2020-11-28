@@ -1,7 +1,8 @@
 ## About:
 
-* An Electronics Undergrad
-* Interested in software development in general, but I'm now also inclined towards AI/ML and Cloud Computing.
+* A passionate Electronics Undergrad.
+* Having primary interest towards Software Development, but more specifically inclining towards AI/ML/DL.
+* Skilled in Python, Machine Learning, Git, Bash, Powershell.
 
 ## Github Statistics:
 
