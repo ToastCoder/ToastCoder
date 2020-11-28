@@ -6,11 +6,14 @@
 
 ## Github Statistics:
 
-![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&count_private=true&show_icons=true)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
+
+![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&count_private=true&show_icons=true)
+
 ![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ToastCoder) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact)](https://github.com/ToastCoder/)
 
 ## Reach me out on:
