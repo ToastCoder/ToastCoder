@@ -12,6 +12,8 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social) 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ToastCoder) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact)](https://github.com/ToastCoder/)
 
 ## Reach me out on:
