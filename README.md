@@ -6,6 +6,8 @@
 
 ## Github Statistics:
 
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ToastCoder)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
 
 ![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=ToastCoder&count_private=true&show_icons=true)
