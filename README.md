@@ -41,5 +41,3 @@ Leave a message [here](https://t.me/ToastCoder)
 [mail]: mailto:vicky.pcbasic@gmail.com
 [xda]:https://forum.xda-developers.com/member.php?u=9858868
 [pypi]:https://pypi.org/user/ToastCoder/
-
-
