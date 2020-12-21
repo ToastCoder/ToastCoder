@@ -2,7 +2,7 @@
 
 * A passionate Electronics Undergrad.
 * Having primary interest towards Software Development, but more specifically inclining towards AI/ML/DL.
-* Skilled in Python, Machine Learning, Git, Bash, Powershell.
+* Skilled in Python, Machine Learning and Git.
 
 ## Github Statistics:
 
