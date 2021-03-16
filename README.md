@@ -1,7 +1,8 @@
 ## About:
 
 * A passionate Electronics Undergrad.
-* Having primary interest towards Software Development, but more specifically inclining towards AI/ML/DL.
+* Having primary interest towards Software Development, but more specifically gearing myself towards AI/ML/DL.
+* Secondary interest towards UNIX based Operating Systems.
 * Skilled in Python, Machine Learning, Linux and Git.
 
 ## Github Statistics:
