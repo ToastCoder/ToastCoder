@@ -4,6 +4,7 @@
 * Having primary interest towards Software Development, but more specifically gearing myself towards AI/ML/DL.
 * Secondary interest towards UNIX based and UNIX like Operating Systems.
 * Skilled in Python, Machine Learning, Linux and Git.
+* Proficient in C,C++,Java and Python
 
 ## Github Statistics:
 
