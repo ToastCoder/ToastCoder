@@ -1,22 +1,16 @@
-## About:
+## About: 
+* A passionate Electronics Undergrad. 
+* Having primary interest towards Software Development, but more specifically gearing myself towards AI/ML/DL. 
+* Secondary interest towards UNIX based and UNIX like Operating Systems. 
+* Skilled languages: Python,C,C++,Java and Bash. 
+* Skilled domains: Machine Learning, Linux and Git. 
 
-* A passionate Electronics Undergrad.
-* Having primary interest towards Software Development, but more specifically gearing myself towards AI/ML/DL.
-* Secondary interest towards UNIX based and UNIX like Operating Systems.
-* Skilled in languages like Python,C,C++,Java and Bash.
-* Skilled in domains like Machine Learning, Linux and Git.
-
-
-## Github Statistics:
-
+## Github Statistics: 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
-
 ![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&theme=dark)](https://github.com/ToastCoder/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&theme=dark)](https://github.com/ToastCoder/)
-
-## Reach me out on:
-
+## Reach me out on: 
 [<img align="left"  width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -27,8 +21,7 @@
 
 <br />
 
-## Bugs/Suggestions to my repo's:
-
+## Bugs/Suggestions to my repo's: 
 Leave a message [here](https://t.me/ToastCoder)
 
 [stackoverflow]:https://stackoverflow.com/users/13433089/vicky/
