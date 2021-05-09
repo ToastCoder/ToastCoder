@@ -6,9 +6,9 @@
 * Skilled domains: Machine Learning, Linux and Git. 
 
 ## Github Statistics: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&theme=dark)](https://github.com/ToastCoder/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
 ![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastCoder&layout=compact&theme=dark)](https://github.com/ToastCoder/) 
 
 ## Reach me out on: 
 [<img align="left"  width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
