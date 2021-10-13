@@ -27,7 +27,7 @@ Leave a message [here](https://t.me/ToastCoder)
 [stackoverflow]:https://stackoverflow.com/users/13433089/vicky/
 [website]: https://toastcoder.github.io/
 [hackerrank]:https://hackerrank.com/ToastCoder/
-[linkedin]: https://www.linkedin.com/in/toastcoder/
+[linkedin]: https://www.linkedin.com/in/ToastCoder/
 [github]: https://github.com/ToastCoder/
 [mail]: mailto:vicky.pcbasic@gmail.com
 [pypi]:https://pypi.org/user/ToastCoder/
