@@ -1,5 +1,4 @@
 ## About: 
-* A passionate Electronics Undergrad. 
 * Having primary interest towards Software Development, but more specifically gearing myself towards AI/ML/DL. 
 * Secondary interest towards UNIX based and UNIX like Operating Systems. 
 * Skilled languages: Python,C,C++,Java and Bash. 
