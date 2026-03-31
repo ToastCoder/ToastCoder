@@ -4,11 +4,6 @@
 * Skilled languages: Python,C,C++,Java and Bash. 
 * Skilled domains: Machine Learning, Linux and Git. 
 
-## Github Statistics: 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToastCoder)](https://github.com/anuraghazra/github-readme-stats)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ToastCoder.visitor-badge) 
-![GitHub stars](https://img.shields.io/github/stars/ToastCoder/ToastCoder?style=social) 
-
 ## Reach me out on: 
 [<img align="left"  width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
