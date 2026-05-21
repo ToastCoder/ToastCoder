@@ -28,15 +28,4 @@ I build AI systems that actually ship — local LLM pipelines, autonomous agents
 
 ---
 
-## Find me
-
-[![Website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg)](https://toastcoder.github.io) &nbsp;
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/ToastCoder/) &nbsp;
-[![HackerRank](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg)](https://hackerrank.com/ToastCoder/) &nbsp;
-[![StackOverflow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg)](https://stackoverflow.com/users/13433089/vicky/) &nbsp;
-[![PyPI](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg)](https://pypi.org/user/ToastCoder/) &nbsp;
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:vicky.pcbasic@gmail.com)
-
----
-
 *Bengaluru, India*
