@@ -1,44 +1,42 @@
-# Hi, I'm Vignesh👋
+# Hey, I'm Vignesh 👋
 
-Software Engineer focused on architecting **Intelligent Systems** and **Scalable AI Architectures**. My work bridges the gap between low-level system performance and high-level predictive modeling.
+I teach silicon how to think. It's a slow class.
 
-## ⚡ Technical Focus
-* **Core:** Specializing in the end-to-end pipeline of **Machine Learning & Deep Learning**, from exploratory data analysis to model deployment.
-* **Systems:** Strong foundation in **UNIX/Linux internals**, leveraging POSIX-compliant environments for high-performance computing and automation.
-* **Optimization:** Proficient in multi-language development (**Python/C++**) to balance rapid prototyping with runtime efficiency.
+I build AI systems that actually ship — local LLM pipelines, autonomous agents, multimodal RAG, and cloud-deployed apps. My work sits at the intersection of low-level systems thinking and high-level AI engineering.
 
 ---
 
-## 🛠️ Expertise & Tooling
+## What I work with
 
-| Domain | Proficiency |
-| :--- | :--- |
-| **Architectures** | Neural Networks, Transformer Architectures, Predictive Modeling |
-| **Systems Programming** | UNIX/Linux Kernel familiarity, Bash Automation, Software Logistics |
-| **Development** | Python (PyTorch/Scikit-learn), C/C++, Java, Git Workflows |
-| **Distribution** | PyPI Package Maintenance, Scalable Web Infrastructure |
-
----
-
-## 🌐 Connectivity
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg" />][pypi]
-
-<br />
+**AI & LLMs** — RAG pipelines, Agentic AI, LangGraph, Ollama, ChromaDB, Azure OpenAI  
+**ML & Deep Learning** — CNNs, Transformers, TensorFlow, Keras, Scikit-learn  
+**Dev Stack** — Python, C/C++, Bash, Docker, GitHub Actions  
+**Systems** — Linux internals, POSIX environments, shell automation  
+**Cloud** — Azure App Service, Azure OpenAI, CI/CD pipelines  
 
 ---
 
+## Things I've built
 
+**[OpenCortex](https://github.com/ToastCoder/OpenCortex)** — Private, multimodal, self-hosted document intelligence. Think NotebookLM but local, offline, and yours.
 
-[stackoverflow]: https://stackoverflow.com/users/13433089/vicky/
-[website]: https://toastcoder.github.io/
-[hackerrank]: https://hackerrank.com/ToastCoder/
-[linkedin]: https://www.linkedin.com/in/ToastCoder/
-[github]: https://github.com/ToastCoder/
-[mail]: mailto:vicky.pcbasic@gmail.com
-[pypi]: https://pypi.org/user/ToastCoder/
+**[shell-agent](https://github.com/ToastCoder/shell-agent)** — An autonomous AI agent that lives in your terminal. Built with LangGraph + Ollama. It actually executes commands — with your permission.
+
+**[AnalyzeMyCV](https://github.com/ToastCoder/AnalyzeMyCV)** — AI-powered resume analyzer built on Azure OpenAI and deployed live on Azure App Service.
+
+**[HRBuddy](https://github.com/ToastCoder/HRBuddy)** — HR chatbot powered by Llama + Nomic embeddings with a strict RAG context pipeline.
+
+---
+
+## Find me
+
+[![Website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg)](https://toastcoder.github.io) &nbsp;
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/ToastCoder/) &nbsp;
+[![HackerRank](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg)](https://hackerrank.com/ToastCoder/) &nbsp;
+[![StackOverflow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg)](https://stackoverflow.com/users/13433089/vicky/) &nbsp;
+[![PyPI](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg)](https://pypi.org/user/ToastCoder/) &nbsp;
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:vicky.pcbasic@gmail.com)
+
+---
+
+*Bengaluru, India*
