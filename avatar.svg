@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="555.2" viewBox="0 0 650 555.2" role="img" aria-label="ToastCoder ASCII avatar">
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="555.2" viewBox="0 0 650 555.2" role="img" aria-label="ToastCoder ASCII avatar" style="overflow:hidden">
   <title>ToastCoder ASCII avatar</title>
-  <rect width="650" height="555.2" rx="8" fill="#0d1117" stroke="#30363d"/>
-  <image href="./dark_mode.svg" x="0" y="0" width="1450" height="580" preserveAspectRatio="none"/>
+  <defs>
+    <clipPath id="avatar-clip"><rect width="650" height="555.2" rx="12"/></clipPath>
+  </defs>
+  <rect width="650" height="555.2" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <image href="./dark_mode.svg" x="0" y="0" width="1550" height="575" preserveAspectRatio="none" clip-path="url(#avatar-clip)"/>
 </svg>
